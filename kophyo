@@ -6,6 +6,38 @@ http://kophyoiptv.xyz:25461/live/admin/test55/6408.ts
 http://kophyoiptv.xyz:25461/live/admin/test55/6409.ts
 #EXTINF:-1 tvg-id="" tvg-name="4K-Sport PREMIUM 3" tvg-logo="https://i.ibb.co/qkqJWKC/43.png" group-title="Bein +",4K-Sport PREMIUM 3
 http://kophyoiptv.xyz:25461/live/admin/test55/6410.ts
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS News
+http://restream-live.realiptv.to:8080/admin1/admin1/548616
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 1 Premium FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548617
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 2 Premium FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548618
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 3 Premium FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548619
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 1 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548620
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 2 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548621
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 3 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548622
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 4 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548623
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 5 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548624
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 6 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548625
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 7 FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548626
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 1 English FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548627
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 2 English FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548628
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 3 English FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548629
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 2 French FHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548631
+#EXTINF:-1 group-title="Bein +",AR- BeIN SPORTS 3 FrenchFHD
+http://restream-live.realiptv.to:8080/admin1/admin1/548632
 #EXTINF:-1 tvg-id="" tvg-name="QHD-Sport EXTRA 1" tvg-logo="https://i.ibb.co/924FTvX/EX1.png" group-title="Bein +",QHD-Sport EXTRA 1
 http://kophyoiptv.xyz:25461/live/admin/test55/6411.ts
 #EXTINF:-1 tvg-id="" tvg-name="QHD-Sport EXTRA 2" tvg-logo="https://i.ibb.co/5FGR9z8/EX2.png" group-title="Bein +",QHD-Sport EXTRA 2
